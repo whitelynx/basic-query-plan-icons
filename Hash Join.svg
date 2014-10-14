@@ -15,7 +15,7 @@
    id="svg5881"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Seq Scan.svg">
+   sodipodi:docname="Hash Join.svg">
   <defs
      id="defs5883" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="28.63771"
-     inkscape:cy="33.221277"
+     inkscape:cx="32.386779"
+     inkscape:cy="32.425718"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:document-units="px"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,12 +70,53 @@
        x="0"
        y="0"
        ry="8" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="53"
+       y="-18.664062"
+       id="text8888"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan8890"
+         x="53"
+         y="-18.664062">}</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 46,6 c -1.108,0 -2,0.892 -2,2 l 0,4 c 0,1.108 0.892,2 2,2 l 1.40625,0 0.375,-2.09375 -1.40625,0 0,-1.21875 1.625,0 0.28125,-1.34375 -1.46875,0 0,-1.25 1.6875,0 L 48.90625,6 46,6 z m 4.1875,0 -0.40625,2.09375 1.15625,0 L 51.34375,6 50.1875,6 z m 2.40625,0 -0.375,2.09375 1.40625,0 0,1.25 -1.65625,0 -0.28125,1.34375 1.53125,0 0,1.21875 -1.75,0 L 51.09375,14 54,14 c 1.108,0 2,-0.892 2,-2 L 56,8 C 56,6.892 55.108,6 54,6 l -1.40625,0 z m -3.03125,3.34375 -0.28125,1.34375 1.15625,0 0.28125,-1.34375 -1.15625,0 z m -0.5,2.5625 L 48.65625,14 l 1.125,0 0.40625,-2.09375 -1.125,0 z"
+       id="use4244"
+       inkscape:connector-curvature="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4244"
+       id="use4278"
+       transform="translate(0,10)"
+       width="64"
+       height="64" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4244"
+       id="use4288"
+       transform="translate(0,20)"
+       width="64"
+       height="64" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4244"
+       id="use4298"
+       transform="translate(0,30)"
+       width="64"
+       height="64" />
     <rect
        ry="2"
-       y="8"
-       x="16"
+       y="6"
+       x="8"
        height="8"
-       width="12"
+       width="8"
        id="use6459"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <use
@@ -83,7 +124,7 @@
        y="0"
        xlink:href="#use6459"
        id="use7890"
-       transform="translate(18,0)"
+       transform="translate(10,0)"
        width="64"
        height="64" />
     <use
@@ -91,122 +132,80 @@
        y="0"
        xlink:href="#use7890"
        id="use7900"
-       transform="translate(14,0)"
+       transform="translate(10,0)"
        width="64"
        height="64" />
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="3"
-       y="16"
-       id="text8823"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan8825"
-         x="3"
-         y="16">#(</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text8831"
-       y="16"
-       x="28"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       xml:space="preserve"><tspan
-         y="16"
-         x="28"
-         id="tspan8833"
-         sodipodi:role="line">)</tspan></text>
     <use
        x="0"
        y="0"
        xlink:href="#use6459"
-       id="use8868"
-       transform="translate(0,12)"
+       id="use4272"
+       transform="translate(0,10)"
        width="64"
        height="64" />
     <use
        x="0"
        y="0"
        xlink:href="#use7890"
-       id="use8870"
-       transform="translate(0,12)"
+       id="use4274"
+       transform="translate(0,10)"
        width="64"
        height="64" />
     <use
        x="0"
        y="0"
        xlink:href="#use7900"
-       id="use8872"
-       transform="translate(0,12)"
+       id="use4276"
+       transform="translate(0,10)"
        width="64"
        height="64" />
     <use
        x="0"
        y="0"
-       xlink:href="#text8823"
-       id="use8874"
-       transform="translate(0,12)"
+       xlink:href="#use6459"
+       id="use4282"
+       transform="translate(0,20)"
        width="64"
        height="64" />
     <use
        x="0"
        y="0"
-       xlink:href="#text8831"
-       id="use8876"
-       transform="translate(0,12)"
+       xlink:href="#use7890"
+       id="use4284"
+       transform="translate(0,20)"
        width="64"
        height="64" />
     <use
        x="0"
        y="0"
-       xlink:href="#use8868"
-       id="use8878"
-       transform="translate(0,12)"
+       xlink:href="#use7900"
+       id="use4286"
+       transform="translate(0,20)"
        width="64"
        height="64" />
     <use
        x="0"
        y="0"
-       xlink:href="#use8870"
-       id="use8880"
-       transform="translate(0,12)"
+       xlink:href="#use6459"
+       id="use4292"
+       transform="translate(0,30)"
        width="64"
        height="64" />
     <use
        x="0"
        y="0"
-       xlink:href="#use8872"
-       id="use8882"
-       transform="translate(0,12)"
+       xlink:href="#use7890"
+       id="use4294"
+       transform="translate(0,30)"
        width="64"
        height="64" />
     <use
        x="0"
        y="0"
-       xlink:href="#use8874"
-       id="use8884"
-       transform="translate(0,12)"
+       xlink:href="#use7900"
+       id="use4296"
+       transform="translate(0,30)"
        width="64"
        height="64" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use8876"
-       id="use8886"
-       transform="translate(0,12)"
-       width="64"
-       height="64" />
-    <text
-       xml:space="preserve"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="51"
-       y="-18.664062"
-       id="text8888"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,1,-1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan8890"
-         x="51"
-         y="-18.664062">}</tspan></text>
   </g>
 </svg>
