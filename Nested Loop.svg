@@ -14,7 +14,8 @@
    height="64px"
    id="svg5881"
    version="1.1"
-   inkscape:version="0.48.5 r10040">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Nested Loop.svg">
   <defs
      id="defs5883">
     <marker
@@ -39,8 +40,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="-41.937686"
-     inkscape:cy="22.605351"
+     inkscape:cx="37.816655"
+     inkscape:cy="34.15081"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:document-units="px"
@@ -67,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -85,7 +86,7 @@
        ry="8" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none"
-       d="m 34,10 8,0 c 6,0 12,6 12,12 l 0,20 c 0,6 -6,12 -12,12 L 22,54 C 16,54 10,48 10,42 l 0,-20 c 0,-6 6,-12 12,-12 l 4,0"
+       d="m 10,28 0,-6 c 0,-6 6,-12 12,-12 l 20,0 c 6,0 12,6 12,12 l 0,20 c 0,6 -6,12 -12,12 L 22,54 C 16,54 10,48 10,42 l 0,-6"
        id="path7215"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
@@ -93,11 +94,11 @@
        sodipodi:nodetypes="cccccccccc"
        inkscape:connector-curvature="0"
        id="path7843"
-       d="m 36,18 2,0 c 4,0 8,4 8,8 l 0,12 c 0,4 -4,8 -8,8 l -12,0 c -4,0 -8,-4 -8,-8 l 0,-12 c 0,-4 4,-8 8,-8 l 2,0"
+       d="m 46,36 0,2 c 0,4 -4,8 -8,8 l -12,0 c -4,0 -8,-4 -8,-8 l 0,-12 c 0,-4 4,-8 8,-8 l 12,0 c 4,0 8,4 8,8 l 0,2"
        style="fill:none;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 24,6 6,4 -6,4 z"
+       d="m 6,38 4,-6 4,6 z"
        id="path7845"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -106,7 +107,7 @@
        y="0"
        xlink:href="#path7845"
        id="use7847"
-       transform="translate(2,8)"
+       transform="matrix(-1,0,0,-1,56,64)"
        width="64"
        height="64" />
   </g>
