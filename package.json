@@ -1,0 +1,19 @@
+{
+  "name": "basic-query-plan-icons",
+  "version": "1.0.0",
+  "description": "Basic SVG icons for SQL query plan visualization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitelynx/basic-query-plan-icons.git"
+  },
+  "author": "David H. Bronke <whitelynx@gmail.com>",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/whitelynx/basic-query-plan-icons/issues"
+  },
+  "homepage": "https://github.com/whitelynx/basic-query-plan-icons#readme"
+}
